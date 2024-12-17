@@ -4,7 +4,9 @@
 
 
 ## 🚀Statistics
-[![AlwaysFHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysfhao&show_icons=true)](https://github.com/alwaysfhao/) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alwaysfhao&locale=zh)](https://git.io/streak-stats)
+[![AlwaysFHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysfhao&show_icons=true)](https://github.com/alwaysfhao/) 
+
+[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=alwaysfhao&locale=zh&#41;]&#40;https://git.io/streak-stats&#41;)
 
 
 <!--
