@@ -7,7 +7,7 @@
 
 ## 🚀 Statistics
 [![AlwaysFHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysfhao&show_icons=true)](https://github.com/alwaysfhao/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysfhao&layout=compact)](https://github.com/alwaysfhao)
 
 ![Visitor Count](https://profile-counter.glitch.me/AlwaysFHao/count.svg)
 
