@@ -1,5 +1,3 @@
-# AlwaysFHao
-
 ## Hi there 👋
 - 🔭 I am currently pursuing a master's degree at Zhejiang A & F University. 
 - 👯 I’m looking to collaborate on `Sequential Recommendation` and `Deep Learning`. 
