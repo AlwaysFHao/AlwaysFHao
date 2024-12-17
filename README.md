@@ -4,6 +4,8 @@
     </a>
 </div>
 
+[![Profile View](https://komarev.com/ghpvc/?username=alwaysfhao)](https://github.com/alwaysfhao)
+
 ## 👋 Hi there 
 - 🔭 I am pursuing a Master's degree in Computer Science and Technology at ZAFU. 
 - 👯 I’m looking to collaborate on `Sequential Recommendation` and `Deep Learning`. 
@@ -11,11 +13,12 @@
 
 ## 🚀 Statistics
 [![AlwaysFHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysfhao&show_icons=true)](https://github.com/alwaysfhao/) 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alwaysfhao)](https://github.com/alwaysfhao)
+
+[//]: # ([![GitHub Streak]&#40;https://streak-stats.demolab.com/?user=alwaysfhao&#41;]&#40;https://github.com/alwaysfhao&#41;)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysfhao&layout=compact)](https://github.com/alwaysfhao)
 
-![Visitor Count](https://profile-counter.glitch.me/AlwaysFHao/count.svg)
+
 
 <!--
 **AlwaysFHao/AlwaysFHao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
