@@ -4,8 +4,6 @@
     </a>
 </div>
 
-[![Profile View](https://komarev.com/ghpvc/?username=alwaysfhao)](https://github.com/alwaysfhao)
-
 ## 👋 Hi there 
 - 🔭 I am pursuing a Master's degree in Computer Science and Technology at ZAFU. 
 - 👯 I’m looking to collaborate on `Sequential Recommendation` and `Deep Learning`. 
@@ -16,8 +14,9 @@
 
 [//]: # ([![GitHub Streak]&#40;https://streak-stats.demolab.com/?user=alwaysfhao&#41;]&#40;https://github.com/alwaysfhao&#41;)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysfhao&layout=compact)](https://github.com/alwaysfhao)
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysfhao&layout=compact&#41;]&#40;https://github.com/alwaysfhao&#41;)
 
+[![Profile View](https://komarev.com/ghpvc/?username=alwaysfhao)](https://github.com/alwaysfhao)
 
 
 <!--
